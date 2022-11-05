@@ -3,8 +3,8 @@
 
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=04ADFFA1&background=00000000&width=435&lines=and+i'm+Python+developer" alt="Typing SVG" /></a></h1>
 
-<ul style="color: red; font-size: 2em">My technology stack={</ul>
-<li style="list-style-type: none">"Language": "Python" <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="15">,</li>
+<ul>My technology stack={</ul>
+<li>"Language": "Python" <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" height="15">,</li>
 <li>"Framework": "Django",</li>
 <li>"DataBase": \["SQLite", "PostgreSQL"],</li>
 <li>"OS": \["Windows", "Linux"],</li>
