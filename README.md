@@ -17,12 +17,8 @@ My technology stack = {
 
  }
 ### Contact me:
-## [<img src='https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/email-address-icon.png' alt='email' height='20'>] Email: maxon.nowik@yandex.ru
+## [<img src='https://uxwing.com/wp-content/themes/uxwing/download/communication-chat-call/email-address-icon.png' alt='email' height='15'>] Email: maxon.nowik@yandex.ru
 
-[<img src='https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-2.png' alt='telegram' height='30'>](https://t.me/MaximNovikow)
-[<img src='https://i.pinimg.com/originals/13/07/a2/1307a2648e71d531704a0f5a270ea966.png' alt='linkedin' height='30'>](https://www.linkedin.com/in/novikowmaxim/)
-
-
-
-
+[<img src='https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-2.png' alt='telegram' height='35'>](https://t.me/MaximNovikow)
+[<img src='https://i.pinimg.com/originals/13/07/a2/1307a2648e71d531704a0f5a270ea966.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/novikowmaxim/)
 
