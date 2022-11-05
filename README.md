@@ -18,5 +18,5 @@ My technology stack = {
  }
 ### Contact me:
 
-[<img src='https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-2.png' alt='telegram' height='35'>](https://t.me/MaximNovikow)
-[<img src='https://www.freepngimg.com/thumb/social_media/74310-instagram-icons-media-computer-social-logo.png' alt='instagram' height='40'>](https://www.instagram.com/kamyshanovv/)
+[<img src='https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-2.png' alt='telegram' height='30'>](https://t.me/MaximNovikow)
+
