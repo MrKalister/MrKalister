@@ -5,8 +5,8 @@
 
 my_technology_stack = {
 - "language": ("python", ), 
-- "framework": ("django", wagtail, django-rest-framework, ),
-- "database": ("sqlite", "postgreqsl", mysql, mariadb, ),
+- "framework": ("django", "wagtail", "django-rest-framework", ),
+- "database": ("sqlite", "postgreqsl", "mysql", "mariadb", ),
 - "os": ("windows", "linux", ),
 - "container": ("docker", "docker-compose", ),
 - "server": ("ngnix", "gunicorn", "heroku", ),
@@ -15,7 +15,7 @@ my_technology_stack = {
 - "tokens": ("jwt", "django-rest-authtoken", "djoser", ),
 - "front": ("html", "css", "bootstrap", ),
 
- }
+}
 ## Contact me:
 [<img src='https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-2.png' alt='telegram' height='35'>](https://t.me/MaximNovikow)
 [<img src='https://i.pinimg.com/originals/13/07/a2/1307a2648e71d531704a0f5a270ea966.png' alt='linkedin' height='35'>](https://www.linkedin.com/in/novikowmaxim/)
