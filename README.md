@@ -5,27 +5,25 @@
 
 ### There is information how's better work with repositories.
 There are 3 basic repositories, each repository contents several projects. 
-You can download all projects from repository at once.
-<br><br>
-Also you can use Sparse-checkout.
-Example:
-### clone commits and catalog's tree, exclude files.
+You can download all projects from repository at once.<br>
+Also you can use Sparse-checkout. Example:
+#### clone commits and catalog's tree, exclude files.
 ```bash
 git clone --filter=blob:none --no-checkout https://github.com/yourname/yandex_study_projects.git
 ```
-### go into main directory
+#### go into main directory
 ```bash
 cd yandex_study_projects
 ```
-### init sparse-checkout
+#### init sparse-checkout
 ```bash
 git sparse-checkout init —cone
 ```
-### select the desired projects with space between them
+#### select the desired projects with space between them
 ```bash
 git sparse-checkout set homework_bot fitness_tracker
 ```
-### upload files for chousen directories
+#### upload files for chousen directories
 ```bash
 git checkout main
 ```
