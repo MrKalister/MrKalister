@@ -5,7 +5,7 @@
 
 ### There is information how's better work with repositories.
 There are 3 basic repositories, each repository contents several projects. 
-You can use sparse-checkout to reduce showing files at the moment.
+You can use sparse-checkout to reduce downloading files at the moment.
 Example:
 #### clone commits and catalog's tree, exclude files.
 ```bash
@@ -27,7 +27,6 @@ git sparse-checkout set homework_bot fitness_tracker
 ```bash
 git checkout main
 ```
-#### show all
 
 ## Contact me:
 [<img src='https://parspng.com/wp-content/uploads/2021/10/telgrampng.parspng.com-2.png' alt='telegram' height='35'>](https://t.me/MaximNovikow)
